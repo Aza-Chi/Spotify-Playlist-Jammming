@@ -1,0 +1,28 @@
+ /* Lunasima: CSS classes
+.lunasima-regular {
+  font-family: "Lunasima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lunasima-bold {
+  font-family: "Lunasima", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+} */
+
+body {
+    font-family: "Lunasima", sans-serif;
+    text-align: center;
+    color: black;
+}
+
+header{
+
+}
+
+h1{
+    font-size: 1.6em;
+    font-weight: 800;
+}
+
